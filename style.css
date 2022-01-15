@@ -1,0 +1,18 @@
+body {
+  background-color: lightcyan;
+}
+
+h1 {
+  color:  #607d8b;
+  margin-left: 20px
+}
+
+ .border-top{border-top:1px solid #607d8b!important;margin-top:10px}.border-bottom{border-bottom:1px solid #607d8b!important}
+ .round
+  {
+    border-radius:20px
+    }
+    .margin-left{margin-left:30px!important}
+    .margin-left1{margin-left:10px!important}
+    .margin-right{margin-right:30px!important}
+    .panel{content:""; display:table; clear:both; margin-top:16px; margin-bottom:16px; padding:0.01em 16px; color:#fff!important;background-color:#00bcd4!important}
